@@ -1,0 +1,27 @@
+.number__list{
+    align-items: center;
+    background: white;
+    border-radius: 1rem;
+    display: flex;
+    height: 20vh;
+    width: 50%;
+    justify-content: space-around;
+    margin: 2rem 0;
+}
+
+.number__number{
+    color: var(--black);
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.number__para{
+    color: var(--dark-gray);
+    padding-top: 0.5rem;
+}
+
+.item__center{
+    padding: 0 4rem;
+    border-left: 1px solid var(--very-light-dark-gray);
+    border-right: 1px solid var(--very-light-dark-gray);
+}

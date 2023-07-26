@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;700&display=swap');
+
+:root{
+    --moderate-cyan: hsl(176, 50%, 47%);
+    --dark-cyan: hsl(176, 72%, 28%);
+    --black: hsl(0, 0%, 0%);
+    --very-light-dark-gray: hsla(0, 0%, 67%, 0.575);
+    --light-dark-gray: hsl(0, 0%, 56%);
+    --dark-gray: hsl(0, 0%, 48%);
+    --very-dark-gray: hsl(0, 0%, 40%);
+    --cream:rgba(249, 249, 249, 0.834);
+
+    --ff-commissioner:'Commissioner', sans-serif;
+}
+
+body{
+    background-color: var(--cream);
+    font-family: var(--ff-commissioner);
+}

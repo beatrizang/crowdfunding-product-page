@@ -1,0 +1,55 @@
+.intro{
+    background: white;
+    border-radius: 1rem;
+    text-align: center;
+    width: 50%;
+}
+
+.intro__img{
+    width: 50px;
+}
+
+.intro__title{
+    font-size: 1.8rem;
+    font-weight: 700;
+    padding: 1rem 0;
+}
+
+.intro__para{
+    color: var(--dark-gray);
+}
+
+.intro__buttons{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem 0;
+    width: 100%;
+}
+
+.intro__btn{
+    color: white;
+    cursor: pointer;
+    background: var(--moderate-cyan);
+    border-radius: 2rem;
+    padding: 1rem 1.5rem;
+}
+
+.intro__btn:hover{
+    background: var(--dark-cyan);
+}
+
+.intro__mark{
+    color: var(--light-dark-gray);
+    cursor: pointer;
+    background: var(--cream);
+    border-radius: 2rem;
+    font-weight: 700;
+    padding: 0 1rem 0 0;
+}
+
+.bookmark{
+    background: var(--very-dark-gray);
+    border-radius: 50%;
+    margin-right: 0.5rem;
+    padding: 0.9rem 1rem;
+}
