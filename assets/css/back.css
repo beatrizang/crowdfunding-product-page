@@ -1,4 +1,5 @@
 .backs{
+    display: none;
     background: white;
     border-radius: 1rem;
     padding: 0.5rem 0;

@@ -1,11 +1,19 @@
+.number{
+    background: white;
+    border-radius: 1rem;
+    margin: 2rem 0;
+    text-align: center;
+    width: 50%;
+}
 .number__list{
     align-items: center;
     background: white;
     border-radius: 1rem;
     display: flex;
     height: 20vh;
-    width: 50%;
+    width: 100%;
     justify-content: space-around;
+    text-align: center;
     margin: 2rem 0;
 }
 

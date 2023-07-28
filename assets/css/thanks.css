@@ -1,0 +1,32 @@
+.thanks{
+    display: none;
+    background: white;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 2rem;
+    width: 25%;
+}
+
+.thanks__img{
+    width: 50px;
+}
+
+.thanks__title{
+    color: var(--black);
+    font-size: 1.3rem;
+    font-weight: 700;
+    padding: 1rem 0;
+}
+
+.thanks__para{
+    color: var(--dark-gray);
+    line-height: 1.5rem;
+}
+
+.thanks__button{
+    background: var(--moderate-cyan);
+    border-radius: 1.5rem;
+    color: white;
+    padding: 0.8rem 2rem;
+    margin-top: 1rem;
+}
